@@ -5,9 +5,9 @@ You are in control of a frog using a control wheel. The goal is to get across fi
 ![image](screenshot_guide.png)
 
 ## Screen shots
-![image](/uploads/9b1abc4924204faf67df56bf1ce488dc/image.png)
-![image](/uploads/c22071c55bed99127de2771f00b555e7/image.png)
-![image](/uploads/fb965bd4b20f56f1b86c952158f844f7/image.png)
-![image](/uploads/164ba0993c5e47df5d5bd5ad9708a5f6/image.png)
-![image](/uploads/8aa5036ca5f1e536e411599372262b96/image.png)
+![image](screenshot_login.png)
+![image](screenshot_main.png)
+![image](screenshot_game.png)
+![image](screenshot_game1.png)
+![image](screenshot_database.png)
 
